@@ -50,7 +50,7 @@ def boot_sequence():
             progress.add_task("Forging local context...", total=None),
         ]
         for i in range(3):
-            sleep(1.5)
+            sleep(0.5)
             progress.remove_task(tasks[i])
     
     # 3. Final greeting
