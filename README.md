@@ -14,7 +14,7 @@
 </p>
 
 ## Features
-- Only 12 safe commands allowed (ls, cat, grep, find, head, tail, wc, pwd, file, echo, du, df)
+- Strictly read-only — 23 safe commands including ls, cat, grep, find, date, uptime, ps, free, du, df and more (zero chance of rm, sudo, cd, pip, or file modification)
 - Physically impossible to run rm, sudo, cd, pip, wget, chmod, delete, or modify anything
 - Bank-level command + character filtering
 - Gorgeous hacker-terminal UI powered by Rich
