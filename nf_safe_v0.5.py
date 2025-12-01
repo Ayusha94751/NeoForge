@@ -76,8 +76,9 @@ def extract_json(response):
     return data, None
 
 ALLOWED_COMMANDS = {
-    "ls", "cat", "head", "tail", "wc",
-    "grep", "find", "pwd", "file", "echo"
+    "ls", "cat", "head", "tail", "wc", "grep", "find", "pwd", "file", "echo",
+    "du", "df", "tree", "stat", "readlink",
+    "date", "uptime", "whoami", "id", "uname", "ps", "free", "env", "locale"
 }
 
 FORBIDDEN_CHARS = set("; & | > < $ ` ! { } ( )".split())
