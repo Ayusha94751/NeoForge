@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=NeoForge&fontSize=90&fontAlignY=38&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=NeoForge%20v0.5&fontSize=90&fontAlignY=38&animation=twinkling"/>
 
 <h3 align="center">The safest read-only AI terminal assistant — ever.</h3>
 
