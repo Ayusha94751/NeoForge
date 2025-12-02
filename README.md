@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Android • Linux • macOS • Windows (WSL) • Boots in <500 ms on a ₹16k phone
+  Android • Linux • macOS • Windows (WSL) • Boots in <500 ms on a $200 phone
 </p>
 
 ## Features
@@ -26,6 +26,9 @@
 ```bash
 git clone https://github.com/Ayusha94751/NeoForge.git
 cd NeoForge
-cp .env.example .env          # paste your free Gemini key
+cp .env.example .env          # add your Gemini key
+python -m venv venv
+Windows: `.\venv\Scripts\activate`
+macOS/Linux: `source venv/bin/activate`
 pip install -r requirements.txt
 python neoforge_safe_v0.5.py
