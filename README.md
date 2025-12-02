@@ -27,4 +27,4 @@ git clone https://github.com/yourusername/NeoForge.git
 cd NeoForge
 cp .env.example .env          # add your Gemini key
 pip install -r requirements.txt
-python neoforge_safe.py
+python neoforge_safe_v0.5.py
