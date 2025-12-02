@@ -36,7 +36,7 @@ def boot_sequence():
 
     console.print(Align.center(banner_panel))
 
-    console.print(Panel("⚒️ [bold cyan]NeoForge v0.5[/bold cyan]\n[italic]Arise, Developer.[/italic]", border_style="bright_magenta"))
+    console.print(Panel("⚒️ [bold cyan]NeoForge v0.5[/bold cyan]\n[italic]Arise, Developer.[/italic]", border_style="bright_red"))
     
     # 2. Boot animation
     with Progress(
