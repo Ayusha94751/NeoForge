@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Any%20Python-black?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/AI-Gemini%202.5%20Flash-4285F4?style=for-the-badge&logo=google"/>
-  <img src="https://img.shields.io/badge/Security-100%25%20Read-Only-critical?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security-100%25%20ReadOnly-critical?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Made%20in-India-%23FF9933?style=for-the-badge&logo=india"/>
   <img src="https://img.shields.io/github/stars/Ayusha94751/NeoForge?style=social"/>
 </p>
