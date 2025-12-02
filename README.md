@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=NeoForge%20v0.5&fontSize=90&fontAlignY=38&animation=twinkling"/>
 
-<h3 align="center">The safest read-only AI terminal assistant — ever.</h3>
+<h3 align="center">NeoForge — The first AI terminal agent that literally cannot delete your files (even if the AI is drunk)
+Runs on a $120 Android phone • 100% local • 23 safe commands only</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Any-black?style=for-the-badge&logo=python"/>
