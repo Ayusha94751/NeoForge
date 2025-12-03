@@ -1,5 +1,33 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=NeoForge&fontSize=90&fontAlignY=38&animation=twinkling"/>
 
+<div align="center">
+
+**#1 post on r/termux today** • **5.7K+ views in 48 hours** • **India + US + Russia**
+
+**First 100 stars = GodMode version drop + your name in HALL OF FAME forever**
+
+</div>
+
+<h3 align="center">NeoForge — The first AI terminal agent that literally cannot delete your files (even if the AI is drunk)</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Any%20Python-black?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/AI-Gemini%201.5%20Flash-4285F4?style=for-the-badge&logo=google"/>
+  <img src="https://img.shields.io/badge/Security-100%25%20ReadOnly-critical?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Made%20in-India-%23FF9933?style=for-the-badge&logo=india"/>
+  <img src="https://img.shields.io/github/stars/Ayusha94751/NeoForge?style=social"/>
+</p>
+
+<p align="center">
+  Android • Linux • macOS • Windows (WSL) • Boots in less than 500 ms on a $200 phone
+</p>
+
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=NeoForge&fontSize=90&fontAlignY=38&animation=twinkling"/>
+
 <h3 align="center">NeoForge — The first AI terminal agent that literally cannot delete your files (even if the AI is drunk)</h3>
 
 <p align="center">
