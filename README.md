@@ -1,5 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=NeoForge&fontSize=90&fontAlignY=38&animation=twinkling"/>
 
+<div align="center">
+
+**#1 post on r/termux today** • **5.7K+ views in 24 hours** • **India + US + Russia**
+
+**First 100 stars = GodMode version drop + your name in HALL OF FAME forever**
+
+</div>
+
+
 <h3 align="center">NeoForge — The first AI terminal agent that literally cannot delete your files (even if the AI is drunk)</h3>
 
 <p align="center">
