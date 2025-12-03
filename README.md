@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**#1 post on r/termux today** • **5.7K+ views in 24 hours** • **India + US + Russia**
+**#1 post on r/termux today** • **6.0K+ views in 24 hours** • **India + US + Russia**
 
 **First 100 stars = GodMode version drop + your name in HALL OF FAME forever**
 
