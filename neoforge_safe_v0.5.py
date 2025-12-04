@@ -57,6 +57,7 @@ def boot_sequence():
     console.print("\n[bold green]✓ Boot sequence complete![/bold green]")
     console.print("[italic bright_white]Welcome back, Artisan.[/italic bright_white]")
 
+os.system("cls" if os.name == "nt" else "clear")
 boot_sequence()
 
 
